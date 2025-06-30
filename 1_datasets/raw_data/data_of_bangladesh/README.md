@@ -1,4 +1,4 @@
-# 🇧🇩 Bangladesh School Data
+# Bangladesh School Data
 
 This folder contains student-level math performance data collected
  from a school in Bangladesh.  
