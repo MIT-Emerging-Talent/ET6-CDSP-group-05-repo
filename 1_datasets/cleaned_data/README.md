@@ -29,7 +29,7 @@ Each file here has undergone basic preprocessing steps such as:
 ## ✅ Purpose
 
 The cleaned files are used as input to the final merging process, where we combine all variables into a single dataset:  
-📄 `datasets/final_dataset.csv`
+📄 `1_datasets/final_dataset.csv`
 
 These files ensure consistent structure and comparability across countries and years before modeling.
 
@@ -37,6 +37,6 @@ These files ensure consistent structure and comparability across countries and y
 
 ## 📌 Notes
 
-- Cleaning was performed using the script: `scripts/data_cleaning_script.ipynb`
+- Cleaning was performed using the script: `2_data_preparation/data_cleaning_script.ipynb`
 - No imputation or interpolation was applied — missing values are retained
 - All files use ISO 3-letter country codes (`ISO`) and standard column names

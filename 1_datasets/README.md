@@ -99,10 +99,10 @@ Countries are grouped by World Bank income levels for comparative analysis.
 
 ## 🔁 Reproducibility
 
-- 📁 Raw data in: `datasets/raw_data/`  
-- 📁 Cleaned individual files in: `datasets/cleaned_data/`  
-- 📜 Cleaning/merging script: `scripts/data_cleaning_script.ipynb`  
-- 📄 Final dataset: `datasets/final_dataset.csv`  
+- 📁 Raw data in: `1_datasets/raw_data/`  
+- 📁 Cleaned individual files in: `1_datasets/cleaned_data/`  
+- 📜 Cleaning/merging script: `2_data_preparation/data_cleaning_script.ipynb`  
+- 📄 Final dataset: `1_datasets/final_dataset.csv`  
 - 🌍 All countries identified by ISO 3-letter codes  
 - ⛔ Missing values preserved as `NaN` to ensure transparency
 
