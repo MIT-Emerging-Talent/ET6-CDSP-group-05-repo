@@ -36,7 +36,7 @@ The COVID-19 pandemic severely disrupted education systems worldwide, with low- 
 
 ## ⚠️ Limitations & Data Uncertainty
 
-While our analysis draws from UNESCO datasets and local studies in Bangladesh, gaps remain in data coverage for remote rural areas and marginalized groups.s. Self-reported school data may understate the severity of learning loss, particularly in under-resourced regions. Additionally, extrapolating findings from Bangladesh to all LMICs introduces uncertainties due to variations in infrastructure, teacher capacity, and digital access.
+While our analysis draws from UNESCO datasets and local studies in Bangladesh, gaps remain in data coverage for remote rural areas and marginalized groups. Self-reported school data may understate the severity of learning loss, particularly in under-resourced regions. Additionally, extrapolating findings from Bangladesh to all LMICs introduces uncertainties due to variations in infrastructure, teacher capacity, and digital access.
 
 ---
 
