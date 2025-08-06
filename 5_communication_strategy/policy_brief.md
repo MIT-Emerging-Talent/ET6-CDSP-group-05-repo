@@ -34,6 +34,12 @@ The COVID-19 pandemic severely disrupted education systems worldwide, with low- 
 
 ---
 
+## ⚠️ Limitations & Data Uncertainty
+
+While our analysis draws from UNESCO datasets and local studies in Bangladesh, gaps remain in data coverage for remote rural areas and marginalized groups. Self-reported school data may understate the severity of learning loss, particularly in under-resourced regions. Additionally, extrapolating findings from Bangladesh to all LMICs introduces uncertainties due to variations in infrastructure, teacher capacity, and digital access.
+
+---
+
 ## 📣 Call to Action
 
 **We urge education policymakers in LMICs to act now** by prioritizing learning recovery in national education agendas. Without immediate intervention, the learning gap will continue to widen, exacerbating inequality and undermining future development.
