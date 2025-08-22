@@ -76,6 +76,19 @@ Please refer to the folders for each phase of the project
 
 ---
 
+## 👥 Team
+
+Our team brings diverse perspectives from teaching, data analysis, and lived experience:
+
+- [__Heba Abudahrouj__](https://github.com/heba3)
+- [__MD Jubayer Khan__](https://github.com/MD-Jubayer-Khan)
+- [__Nada Saed__](https://github.com/Nada-saad635)
+- [__MayMon__](https://github.com/MayMon-T3807)
+- [__Alexander Andom__](https://github.com/aandom)
+- [__Momtaz Yaqubic__](https://github.com/Momtaz-yaqubi)
+
+---
+
 ## 🤝 Acknowledgments
 
 This work is part of an academic data science initiative focused on
