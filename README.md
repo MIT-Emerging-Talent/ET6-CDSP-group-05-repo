@@ -23,6 +23,12 @@ This project aims to analyze and understand the global gap in mathematics
 
 ---
 
+## Team understanding of the learning problem after the COVID-19 pandemic
+
+![Project Overview](notes\visuals\understanding.png)
+
+---
+
 ## 🔍 What We Did
 
 - Collected and combined data from multiple international sources.  
