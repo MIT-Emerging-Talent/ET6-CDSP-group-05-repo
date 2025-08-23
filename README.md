@@ -25,7 +25,7 @@ This project aims to analyze and understand the global gap in mathematics
 
 ## Team understanding of the learning problem after the COVID-19 pandemic
 
-![Project Overview](notes\visuals\understanding.png)
+![Understanding](notes/visuals/understanding.png)
 
 ---
 
@@ -47,6 +47,17 @@ This project aims to analyze and understand the global gap in mathematics
 
 ---
 
+## 📈 Key Results
+
+- Over 1.6 billion learners worldwide experienced educational disruption, with 463 million children unable to access remote learning.
+- Field studies documented sharp declines in mathematics proficiency, including a >27% drop for Brazilian second graders and regression to pre‑primary skill levels in Kenya and Uganda.
+- The affected cohort may face up to $17 trillion in lost lifetime earnings, and learning poverty in low- and middle-income countries could reach 70%.
+- Structural issues like weak digital infrastructure, teacher burnout, and inflexible curricula deepened the gap.
+- Country data show divergent paths between 2019 and 2023: Albania and Armenia improved, while Australia, Azerbaijan, and Belgium declined.
+![results](notes/visuals/results.png)
+
+---
+
 ## 🔄 Reproducibility
 
 All data preparation and analysis steps are reproducible through the scripts
@@ -58,10 +69,23 @@ Please refer to the folders for each phase of the project
 
 ## 📌 Project Flow Diagram
 
-![Project Overview](notes/visuals/learning_gap_flow_diagram.png)
+![Project Overview](notes/visuals/workflow.png)
 
 *Diagram showing the data flow and analysis process to explore the
  math learning gap post-COVID.*
+
+---
+
+## 👥 Team
+
+Our team brings diverse perspectives from teaching, data analysis, and lived experience:
+
+- [__Heba Abudahrouj__](https://github.com/heba3)
+- [__MD Jubayer Khan__](https://github.com/MD-Jubayer-Khan)
+- [__Nada Saed__](https://github.com/Nada-saad635)
+- [__MayMon__](https://github.com/MayMon-T3807)
+- [__Alexander Andom__](https://github.com/aandom)
+- [__Momtaz Yaqubic__](https://github.com/Momtaz-yaqubi)
 
 ---
 
