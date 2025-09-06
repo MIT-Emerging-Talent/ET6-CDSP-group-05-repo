@@ -13,7 +13,7 @@
 
 ### Artifacts
 
-1. **Policy Brief** (`./policy_brief.md`)  
+1. - 📄 [Policy Brief](./policy_brief.md)  
    A concise, visually engaging 1-page brief tailored for education policymakers in low- and middle-income countries (LMICs). The brief focuses on:
 
    - **Title**: *Scalable and Cost-Effective Strategies to Address Pandemic-Induced Math Learning Loss*
@@ -25,7 +25,7 @@
 
    The brief emphasizes scalable, budget-conscious solutions that can be rapidly implemented through existing education systems.
 
-2. **Data Dashboard** (`https://drive.google.com/drive/folders/1tpDZ0wg6AT8JyFbr3WtrYFN7_c2tpz0n?usp=sharing`)
+2. **Data Dashboard** - 📊 [Interactive Dashboard](https://drive.google.com/drive/folders/1tpDZ0wg6AT8JyFbr3WtrYFN7_c2tpz0n?usp=sharing)  
    - Interactive filters for:
      - Country income level
      - Urban/rural divide
