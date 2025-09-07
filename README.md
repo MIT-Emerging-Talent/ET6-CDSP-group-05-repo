@@ -27,7 +27,7 @@ Our team brings diverse perspectives from teaching, data analysis, and lived exp
 
 ---
 
-## 💡- __Milestone 0 – Domain Study:__ Key Questions
+## 💡Milestone 0 :Domain Stud- Key Questions
 
 - How much did math proficiency change during the pandemic?  
 - Which countries or regions were most affected?  
@@ -65,7 +65,16 @@ the educational impact of the pandemic.
 
 ---
 
-## 📂_Milestone 1_ data Collection: 🔍 What We Did
+## 📌 Project Flow Diagram
+
+![Project Overview](notes/visuals/workflow.png)
+
+_Diagram showing the data flow and analysis process to explore the
+ math learning gap post-COVID._
+
+---
+
+## 📂Milestone 1: data Collection- 🔍 What We Did
 
 Our data was mainly collected from __UNESCO’s UIS (Institute for Statistics)__ open data platform.  
 To add important context, we included supplementary datasets from __UNICEF__ (digital connectivity)  
@@ -80,7 +89,7 @@ and the __World Bank__ (income classifications and education indicators).
 
 ---
 
-## 🧼_Milestone 2_ data Cleaning  
+## 🧼Milestone 2 : data Cleaning  
 
 We cleaned and standardized the raw datasets to make them ready for analysis.  
 
@@ -93,7 +102,7 @@ We cleaned and standardized the raw datasets to make them ready for analysis.
 
 ---
 
-## 🔍 _Milestone 3_ Data Exploration
+## 🔍 Milestone 3 Data Exploration
 
 We explored both the global dataset and a case study dataset to understand learning patterns.  
 
@@ -109,7 +118,7 @@ We explored both the global dataset and a case study dataset to understand learn
 
 ---
 
-## 📊- __Milestone 4  _ Data Analysis  
+## 📊Milestone 4 : Data Analysis  
 
 We analyzed the dataset (2019–2023) to understand how __math proficiency__ changed during the COVID-19 period  and which factors explain this variation.  
 
@@ -133,21 +142,15 @@ We analyzed the dataset (2019–2023) to understand how __math proficiency__ cha
 
 ---
 
-## 🔄 Reproducibility
+### 📝 Milestone 5: Communication Strategy  
 
-All data preparation and analysis steps are reproducible through the scripts
- provided in the repository.  
-Please refer to the folders for each phase of the project
- (data preparation, exploration, and analysis).
+A policy-focused plan targeting __education ministers, advisors, and international organizations__.  
+Core message: __Targeted math recovery programs can close 78% of COVID-19 gaps at 1/3 the cost of grade repetition__ (Bangladesh + UNESCO data).  
 
----
+__Deliverables:__  
 
-## 📌 Project Flow Diagram
-
-![Project Overview](notes/visuals/workflow.png)
-
-_Diagram showing the data flow and analysis process to explore the
- math learning gap post-COVID._
+- 📄 [Policy Brief](./policy_brief.md)  
+- 📊 [Interactive Dashboard](https://drive.google.com/drive/folders/1tpDZ0wg6AT8JyFbr3WtrYFN7_c2tpz0n?usp=sharing)  
 
 ---
 
